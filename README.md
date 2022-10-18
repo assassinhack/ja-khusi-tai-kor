@@ -56,8 +56,8 @@ If you liked working on this project, please share this project as much as you c
 
 ## Our valuable Contributors👩‍💻👨‍💻 :
 
-<a href="https://github.com/maheshjainckd/CRUD-Template/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=assassinhack/CRUD-Template" />
+<a href="https://github.com/maheshjainckd/ja-khusi-tai-kor/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=assassinhack/ja-khusi-tai-kor" />
 </a>
 
 
